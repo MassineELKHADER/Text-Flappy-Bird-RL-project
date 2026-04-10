@@ -8,11 +8,7 @@ pip install gymnasium text-flappy-bird-gym tqdm matplotlib numpy
 
 ## Run
 
-1. Start Jupyter:
-   ```
-   jupyter notebook notebook.ipynb
-   ```
-2. **Kernel > Restart & Run All**
+Run the jupyter notebook:
 
 Figures are saved to `figures/`.
 
