@@ -1,0 +1,15 @@
+# Assignment PDF
+*.pdf
+
+# LaTeX report
+report/
+
+# Notebook rebuild script
+rebuild_notebook.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
